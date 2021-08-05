@@ -1,0 +1,24 @@
+{
+    "code": 0,
+    "msg": "",
+    "data":  [
+        {
+            "taskId":"81a09ceb-d5ba-4e11-97cf-292f7a612029",
+            "grade_Name":"高2019级",
+            "semester_Name":"2020-2021学年第二学期",
+            "type":"老生报到"
+        },
+        {
+            "taskId":"81a09ceb-d5ba-4e11-97cf-292f7a612029", 
+            "grade_Name":"高2019级",
+            "semester_Name":"2020-2021学年第二学期",
+            "type":"新生报到"
+        },
+        {
+            "taskId":"81a09ceb-d5ba-4e11-97cf-292f7a612029", 
+            "grade_Name":"高2019级",
+            "semester_Name":"2020-2021学年第二学期",
+            "type":"新生报到"
+        }
+    ]
+}

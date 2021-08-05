@@ -1,0 +1,44 @@
+{
+    "code": 0,
+    "msg": null,
+    "data": {
+        "student_name": "魏波",
+        "student_id": "fdafdasfdasfdas",
+        "student_no": "1901200001",
+        "grade_name": "高2019级",
+        "class_name": "高2019级1班",
+        "avatar": "http://static.szymr.com/THApp/StudentCheckIn/12ad3309-48d1-4ed0-a9ba-8e9934f87477.png",
+        "exam_course": [
+            "数学",
+            "英语",
+            "语文"
+        ],
+        "ticket_no": "190101201",
+        "ticket": [
+            {
+                "course_name": "语文",
+                "exam_date": "2020-04-05 09:00 ~ 12:00",
+                "exam_no": "第一考场",
+                "seat_no": "01",
+                "address": "1教101教室",
+                "score": 98.5
+            },
+            {
+                "course_name": "数学",
+                "exam_date": "2020-04-05 13:00 ~ 15:00",
+                "exam_no": "第一考场",
+                "seat_no": "01",
+                "address": "1教101教室",
+                "score": 88.5
+            },
+            {
+                "course_name": "英语",
+                "exam_date": "2020-04-06 09:00 ~ 12:00",
+                "exam_no": "第一考场",
+                "seat_no": "01",
+                "address": "1教101教室",
+                "score": 70.5
+            }
+        ]
+    }
+}

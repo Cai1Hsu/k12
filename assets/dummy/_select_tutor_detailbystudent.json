@@ -1,0 +1,46 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "id": "2",
+        "name": "2019级第2次选导师",
+        "status": "已完成",
+        "date":"2020-04-09 09:00 至 2020-04-10 10:00",
+        "grade_name":"高2017级",
+        "semester_name":"2019-2020学年第一学期",
+        "is_allot_choose":true,
+        "tutors": [
+            {
+                "id": "te1",
+                "name": "李建军",
+                "avatar_url": "assets/images/demo_avatar_1.jpeg",
+                "description": "",
+                "class_name":"高2019级-508班",
+                "class_id":"CLA0000001",
+                "max": 50,
+                "choose":false,
+                "actual": 43
+            },
+            {
+                "id": "te2",
+                "name": "喻良刚",
+                "avatar_url": "assets/images/demo_avatar_2.jpg",
+                "description": "",
+                "class_name":"高2019级-508班",
+                "class_id":"CLA0000001",
+                "max": 50,
+                "actual": 43
+            },
+            {
+                "id": "te3",
+                "name": "杨光智",
+                "avatar_url": "assets/images/demo_avatar_3.jpeg",
+                "description": "",
+                "class_name":"高2019级-508班",
+                "class_id":"CLA0000001",
+                "max": 50,
+                "actual": 43
+            }
+        ]
+    }
+}

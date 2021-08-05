@@ -1,0 +1,16 @@
+{
+    "code":0,
+    "msg":"",
+    "data":[
+        {
+            "id":"1",
+            "title":"",
+            "body":"",
+            "senderid":"",
+            "sender_avatar_url":"",
+            "has_read":false,
+            "create_date":"2020/03/20 18:09:30",
+
+        }
+    ]
+}

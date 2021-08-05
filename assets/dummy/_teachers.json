@@ -1,0 +1,81 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": [
+        {
+            "id": "te1",
+            "name": "李建军",
+            "avatar_url": "assets/images/demo_avatar_1.jpeg",
+            "description": "",
+            "courses": [
+                {
+                    "id": "1",
+                    "name": "语文",
+                    "description": ""
+                }
+            ],
+            "grades": [
+                {
+                    "serialNo": "EY000000009",
+                    "name": "高2017级",
+                    "startYear": 2017,
+                    "endYear": 2020,
+                    "schoolSerialNo": "SU000000006"
+                }
+            ],
+            "birthday": "",
+            "gender": "",
+            "phone": ""
+        },
+        {
+            "id": "te2",
+            "name": "喻良刚",
+            "avatar_url": "assets/images/demo_avatar_2.jpg",
+            "description": "",
+            "courses": [
+                {
+                    "id": "2",
+                    "name": "数学",
+                    "description": ""
+                }
+            ],
+            "grades": [
+                {
+                    "serialNo": "EY000000009",
+                    "name": "高2017级",
+                    "startYear": 2017,
+                    "endYear": 2020,
+                    "schoolSerialNo": "SU000000006"
+                }
+            ],
+            "birthday": "",
+            "gender": "",
+            "phone": ""
+        },
+        {
+            "id": "te3",
+            "name": "杨光智",
+            "avatar_url": "assets/images/demo_avatar_3.jpeg",
+            "description": "",
+            "courses": [
+                {
+                    "id": "1",
+                    "name": "语文",
+                    "description": ""
+                }
+            ],
+            "grades": [
+                {
+                    "serialNo": "EY000000010",
+                    "name": "高2018级",
+                    "startYear": 2018,
+                    "endYear": 2021,
+                    "schoolSerialNo": "SU000000006"
+                }
+            ],
+            "birthday": "",
+            "gender": "",
+            "phone": ""
+        }
+    ]
+}

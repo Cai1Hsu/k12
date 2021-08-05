@@ -1,0 +1,34 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": [
+        {
+            "id":"1",
+            "followerid":"te1",
+            "follower_name":"李建军",
+            "follower_avatar":"assets/images/demo_avatar_1.jpeg",
+            "actorid":"te2",
+            "actor_name":"喻良刚",
+            "actor_avatar":"assets/images/demo_avatar_2.jpg"
+        },
+        {
+            "id":"2",
+            "followerid":"te1",
+            "follower_name":"李建军",
+            "follower_avatar":"assets/images/demo_avatar_1.jpeg",
+            "actorid":"te3",
+            "actor_name":"杨光智",
+            "actor_avatar":"assets/images/demo_avatar_3.jpeg"
+        },
+        {
+            "id":"3",
+            "followerid":"te1",
+            "follower_name":"李建军",
+            "follower_avatar":"assets/images/demo_avatar_1.jpeg",
+            "actorid":"SU20190102",
+            "actor_name":"张胜雅",
+            "actor_avatar":"assets/images/demo_avatar_4.jpg"
+        }
+    ]
+  }
+  

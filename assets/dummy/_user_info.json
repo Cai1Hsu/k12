@@ -1,0 +1,25 @@
+{
+    "code": 0,
+    "msg": "请求成功",
+    "data": {
+      "userID": "7374d1f1652c4630bf73bccccc6bbbd9",
+      "userName": "thzx",
+      "accountName": "thzx",
+      "userType": 2,
+      "avatarUrl": "",
+      "serialNo": "SU000000006",
+      "userTag": null,
+      "roles": [
+        {
+          "roleID": "56551afeae5b4fb3a5e3b9276bdab5ae",
+          "roleName": "学校管理员",
+          "orgSerialNo": "YM000000001",
+          "userType": 2
+        }
+      ],
+      "mobileNo": null,
+      "userCode": "",
+      "gender": null,
+      "organiseUnitList": null
+    }
+  }

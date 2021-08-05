@@ -1,0 +1,590 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": [
+        {
+            "id": "1",
+            "sid":"SU000000006",
+            "name": "党团活动",
+            "type": "思想品德",
+            "description": "",
+            "score":0,
+            "children": [
+                {
+                    "id": "2",
+                    "sid":"SU000000006",
+                    "name": "党团课",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":2
+                },
+                {
+                    "id": "3",
+                    "sid":"SU000000006",
+                    "name": "党团支部会议",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":2
+                },
+                {
+                    "id": "4",
+                    "sid":"SU000000006",
+                    "name": "党团知识教育",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":2
+                },
+                {
+                    "id": "5",
+                    "sid":"SU000000006",
+                    "name": "党团知识竞赛",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":2
+                },
+                {
+                    "id": "6",
+                    "sid":"SU000000006",
+                    "name": "党团民主生活会",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":2
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "sid":"SU000000006",
+            "name": "相关社团活动",
+            "type": "思想品德",
+            "description": "",
+            "score":0,
+            "children": [
+                {
+                    "id": "8",
+                    "sid":"SU000000006",
+                    "name": "学生会",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":2
+                },
+                {
+                    "id": "9",
+                    "sid":"SU000000006",
+                    "name": "辩论队",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":2
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "sid":"SU000000006",
+            "name": "公益活动和志愿服务",
+            "type": "思想品德",
+            "description": "",
+            "score":0,
+            "children": [
+                {
+                    "id": "11",
+                    "sid":"SU000000006",
+                    "name": "帮扶助残",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":2
+                },
+                {
+                    "id": "12",
+                    "sid":"SU000000006",
+                    "name": "义务劳动",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":2
+                },
+                {
+                    "id": "13",
+                    "sid":"SU000000006",
+                    "name": "环境保护",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":2
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "sid":"SU000000006",
+            "name": "安全和法治宣传活动",
+            "type": "思想品德",
+            "description": "",
+            "score":0,
+            "children": [
+                {
+                    "id": "15",
+                    "sid":"SU000000006",
+                    "name": "参加讲座",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":2
+                },
+                {
+                    "id": "16",
+                    "sid":"SU000000006",
+                    "name": "安全法制活动",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":2
+                },
+                {
+                    "id": "17",
+                    "sid":"SU000000006",
+                    "name": "知识竞赛",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":2
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "sid":"SU000000006",
+            "name": "其他",
+            "type": "思想品德",
+            "description": "",
+            "score":0,
+            "children": [
+                {
+                    "id": "19",
+                    "sid":"SU000000006",
+                    "name": "见义勇为",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":2
+                },
+                {
+                    "id": "20",
+                    "sid":"SU000000006",
+                    "name": "拾金不昧",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":2
+                }
+            ]
+        },
+        {
+            "id": "21",
+            "sid":"SU000000006",
+            "name": "标志性成果",
+            "type": "思想品德",
+            "description": "",
+            "score":0,
+            "children": [
+                {
+                    "id": "22",
+                    "sid":"SU000000006",
+                    "name": "国家级",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":11
+                },
+                {
+                    "id": "23",
+                    "sid":"SU000000006",
+                    "name": "省级",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":9
+                },
+                {
+                    "id": "24",
+                    "sid":"SU000000006",
+                    "name": "市级",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":7
+                },
+                {
+                    "id": "25",
+                    "sid":"SU000000006",
+                    "name": "区（县）级",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":5
+                },
+                {
+                    "id": "26",
+                    "sid":"SU000000006",
+                    "name": "校级",
+                    "type": "思想品德",
+                    "description": "",
+                    "score":3
+                }
+            ]
+        },
+        {
+            "id": "27",
+            "sid":"SU000000006",
+            "name": "研究性学习",
+            "type": "学业水平",
+            "description": "",
+            "score":2
+        },
+        {
+            "id": "28",
+            "sid":"SU000000006",
+            "name": "创新、优势学科学习",
+            "type": "学业水平",
+            "description": "",
+            "score":2
+        },
+        {
+            "id": "29",
+            "sid":"SU000000006",
+            "name": "学术性社团",
+            "type": "学业水平",
+            "description": "",
+            "score":2
+        },
+        {
+            "id": "30",
+            "sid":"SU000000006",
+            "name": "其他",
+            "type": "学业水平",
+            "description": "",
+            "score":0
+        },
+        {
+            "id": "31",
+            "sid":"SU000000006",
+            "name": "标志性成果",
+            "type": "学业水平",
+            "description": "",
+            "score":0,
+            "children": [
+                {
+                    "id": "32",
+                    "sid":"SU000000006",
+                    "name": "国家级",
+                    "type": "学业水平",
+                    "description": "",
+                    "score":11
+                },
+                {
+                    "id": "33",
+                    "sid":"SU000000006",
+                    "name": "省级",
+                    "type": "学业水平",
+                    "description": "",
+                    "score":9
+                },
+                {
+                    "id": "34",
+                    "sid":"SU000000006",
+                    "name": "市级",
+                    "type": "学业水平",
+                    "description": "",
+                    "score":7
+                },
+                {
+                    "id": "35",
+                    "sid":"SU000000006",
+                    "name": "区（县）级",
+                    "type": "学业水平",
+                    "description": "",
+                    "score":5
+                },
+                {
+                    "id": "36",
+                    "sid":"SU000000006",
+                    "name": "校级",
+                    "type": "学业水平",
+                    "description": "",
+                    "score":3
+                }
+            ]
+        },
+        {
+            "id": "37",
+            "sid":"SU000000006",
+            "name": "运动、体育节活动",
+            "type": "身心健康",
+            "description": "",
+            "score":2
+        },
+        {
+
+            "id": "38",
+            "sid":"SU000000006",
+            "name": "体育社团活动",
+            "type": "身心健康",
+            "description": "",
+            "score":2
+        },
+        {
+
+            "id": "39",
+            "sid":"SU000000006",
+            "name": "运动技能特长",
+            "type": "身心健康",
+            "description": "",
+            "score":2
+        },
+        {
+
+            "id": "40",
+            "sid":"SU000000006",
+            "name": "应对困难和挫折",
+            "type": "身心健康",
+            "description": "",
+            "score":2
+        },
+        {
+
+            "id": "41",
+            "sid":"SU000000006",
+            "name": "其他",
+            "type": "身心健康",
+            "description": "",
+            "score":2
+        },
+        {
+            "id": "42",
+            "sid":"SU000000006",
+            "name": "标志性成果",
+            "type": "身心健康",
+            "description": "",
+            "score":0,
+            "children": [
+                {
+                    "id": "43",
+                    "sid":"SU000000006",
+                    "name": "国家级",
+                    "type": "身心健康",
+                    "description": "",
+                    "score":11
+                },
+                {
+                    "id": "44",
+                    "sid":"SU000000006",
+                    "name": "省级",
+                    "type": "身心健康",
+                    "description": "",
+                    "score":9
+                },
+                {
+                    "id": "45",
+                    "sid":"SU000000006",
+                    "name": "市级",
+                    "type": "身心健康",
+                    "description": "",
+                    "score":7
+                },
+                {
+                    "id": "46",
+                    "sid":"SU000000006",
+                    "name": "区（县）级",
+                    "type": "身心健康",
+                    "description": "",
+                    "score":5
+                },
+                {
+                    "id": "47",
+                    "sid":"SU000000006",
+                    "name": "校级",
+                    "type": "身心健康",
+                    "description": "",
+                    "score":3
+                }
+            ]
+        },
+        {
+            "id": "48",
+            "sid":"SU000000006",
+            "name": "艺术节活动",
+            "type": "艺术修养",
+            "description": "",
+            "score":2
+        },
+        {
+            "id": "49",
+            "sid":"SU000000006",
+            "name": "艺术社团活动",
+            "type": "艺术修养",
+            "description": "",
+            "score":2
+        },
+        {
+            "id": "50",
+            "sid":"SU000000006",
+            "name": "艺术技能特长",
+            "type": "艺术修养",
+            "description": "",
+            "score":2
+        },
+        {
+            "id": "51",
+            "sid":"SU000000006",
+            "name": "其他",
+            "type": "艺术修养",
+            "description": "",
+            "score":2
+        },
+        {
+            "id": "50",
+            "sid":"SU000000006",
+            "name": "标志性成果",
+            "type": "艺术修养",
+            "description": "",
+            "score":0,
+            "children": [
+                {
+                    "id": "51",
+                    "sid":"SU000000006",
+                    "name": "国家级",
+                    "type": "艺术修养",
+                    "description": "",
+                    "score":11
+                },
+                {
+                    "id": "52",
+                    "sid":"SU000000006",
+                    "name": "省级",
+                    "type": "艺术修养",
+                    "description": "",
+                    "score":9
+                },
+                {
+                    "id": "53",
+                    "sid":"SU000000006",
+                    "name": "市级",
+                    "type": "艺术修养",
+                    "description": "",
+                    "score":7
+                },
+                {
+                    "id": "54",
+                    "sid":"SU000000006",
+                    "name": "区（县）级",
+                    "type": "艺术修养",
+                    "description": "",
+                    "score":5
+                },
+                {
+                    "id": "55",
+                    "sid":"SU000000006",
+                    "name": "校级",
+                    "type": "艺术修养",
+                    "description": "",
+                    "score":3
+                }
+            ]
+        },
+        {
+            "id": "56",
+            "sid":"SU000000006",
+            "name": "与技术课程有关的实习",
+            "type": "社会实践",
+            "description": "",
+            "score":2
+        },
+        {
+            "id": "57",
+            "sid":"SU000000006",
+            "name": "生产劳动",
+            "type": "社会实践",
+            "description": "",
+            "score":2
+        },
+        {
+            "id": "58",
+            "sid":"SU000000006",
+            "name": "勤工俭学",
+            "type": "社会实践",
+            "description": "",
+            "score":2
+        },
+        {
+            "id": "59",
+            "sid":"SU000000006",
+            "name": "军训",
+            "type": "社会实践",
+            "description": "",
+            "score":2
+        },
+        {
+            "id": "60",
+            "sid":"SU000000006",
+            "name": "参观考察（研学旅行）",
+            "type": "社会实践",
+            "description": "",
+            "score":2
+        },
+        {
+            "id": "61",
+            "sid":"SU000000006",
+            "name": "社会调查",
+            "type": "社会实践",
+            "description": "",
+            "score":2
+        },
+        {
+            "id": "62",
+            "sid":"SU000000006",
+            "name": "其他",
+            "type": "社会实践",
+            "description": "",
+            "score":2
+        },
+        {
+            "id": "63",
+            "sid":"SU000000006",
+            "name": "标志性成果",
+            "type": "社会实践",
+            "description": "",
+            "score":0,
+            "children": [
+                {
+                    "id": "64",
+                    "sid":"SU000000006",
+                    "name": "国家级",
+                    "type": "社会实践",
+                    "description": "",
+                    "score":11
+                },
+                {
+                    "id": "65",
+                    "sid":"SU000000006",
+                    "name": "省级",
+                    "type": "社会实践",
+                    "description": "",
+                    "score":9
+                },
+                {
+                    "id": "66",
+                    "sid":"SU000000006",
+                    "name": "市级",
+                    "type": "社会实践",
+                    "description": "",
+                    "score":7
+                },
+                {
+                    "id": "67",
+                    "sid":"SU000000006",
+                    "name": "区（县）级",
+                    "type": "社会实践",
+                    "description": "",
+                    "score":5
+                },
+                {
+                    "id": "68",
+                    "sid":"SU000000006",
+                    "name": "校级",
+                    "type": "社会实践",
+                    "description": "",
+                    "score":3
+                }
+            ]
+        }
+    ]
+}

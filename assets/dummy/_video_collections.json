@@ -1,0 +1,58 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": [
+        {
+            "id":"6D36EC45-EA58-4463-8A69-2AD2058A80DA",
+            "video_id":"B786A3AB-4425-4D7A-9549-C62E0B273ADF",
+            "collected_by":{
+                "userID": "7374d1f1652c4630bf73bccccc6bbbd9",
+                "userName": "thzx",
+                "accountName": "thzx",
+                "userType": 2,
+                "avatarUrl": "assets/images/demo_avatar_2.jpg",
+                "userCode": ""
+              },
+            "creation_time":"2020/03/19 15:09:39",
+            "client_info":{
+                "ip":"18.90.134.125",
+                "device":"Nexus PI 2"
+            }
+        },
+        {
+            "id":"6D36EC45-EA58-4463-8A69-2AD2058A80DA",
+            "video_id":"B786A3AB-4425-4D7A-9549-C62E0B273ADF",
+            "collected_by":{
+                "userID": "7374d1f1652c4630bf73bccccc6bbbd9",
+                "userName": "thzx",
+                "accountName": "thzx",
+                "userType": 2,
+                "avatarUrl": "assets/images/demo_avatar_2.jpg",
+                "userCode": ""
+              },
+            "creation_time":"2020/03/19 15:09:39",
+            "client_info":{
+                "ip":"18.90.134.125",
+                "device":"Nexus PI 2"
+            }
+        },
+        {
+            "id":"6D36EC45-EA58-4463-8A69-2AD2058A80DA",
+            "video_id":"B786A3AB-4425-4D7A-9549-C62E0B273ADF",
+            "collected_by":{
+                "userID": "7374d1f1652c4630bf73bccccc6bbbd9",
+                "userName": "thzx",
+                "accountName": "thzx",
+                "userType": 2,
+                "avatarUrl": "assets/images/demo_avatar_2.jpg",
+                "userCode": ""
+              },
+            "creation_time":"2020/03/19 15:09:39",
+            "client_info":{
+                "ip":"18.90.134.125",
+                "device":"Nexus PI 2"
+            }
+        }
+    ]
+  }
+  

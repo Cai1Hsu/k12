@@ -1,0 +1,114 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "id": "1",
+        "name": "2020级第2次新高考选科",
+        "status": "1",
+        "isCheck":true,
+        "checkComboId":"aaaa",
+        "kemu": [
+            {
+                "id": 1,
+                "name": "物理",
+                "disabled": false,
+                "check": false
+            },
+            {
+                "id": 2,
+                "name": "化学",
+                "disabled": false,
+                "check": false
+            },
+            {
+                "id": 3,
+                "name": "生物",
+                "disabled": false,
+                "check": false
+            },
+            {
+                "id": 4,
+                "name": "历史",
+                "disabled": false,
+                "check": false
+            },
+            {
+                "id": 5,
+                "name": "地理",
+                "disabled": false,
+                "check": false
+            },
+            {
+                "id": 6,
+                "name": "政治",
+                "disabled": false,
+                "check": false
+            },
+            {
+                "id": 7,
+                "name": "技术",
+                "disabled": false,
+                "check": false
+            }
+        ],
+        "combo": [
+            [
+                {
+                    "comboId": "aaaa",
+                    "combo": [
+                        {
+                            "id": 1,
+                            "name": "物理"
+                        },
+                        {
+                            "id": 2,
+                            "name": "化学"
+                        },
+                        {
+                            "id": 3,
+                            "name": "生物"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "comboId": "bbbb",
+                    "combo": [
+                        {
+                            "id": 4,
+                            "name": "历史"
+                        },
+                        {
+                            "id": 5,
+                            "name": "地理"
+                        },
+                        {
+                            "id": 6,
+                            "name": "政治"
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "comboId": "cccc",
+                    "combo": [
+                        {
+                            "id": 7,
+                            "name": "技术"
+                        },
+                        {
+                            "id": 1,
+                            "name": "物理"
+                        },
+                        {
+                            "id": 6,
+                            "name": "政治"
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+}

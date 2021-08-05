@@ -1,0 +1,170 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "id": "6D36EC45-EA58-4463-8A69-2AD2058A80DA",
+    "name": "[3/20]数学#1班（张雅琴）",
+    "description": "",
+    "tag_groups": [
+      {
+        "name":"教授技巧",
+        "tags": [
+          {
+            "id":"1",
+            "name":"激情四射",
+            "score":1,
+            "count":124
+          },
+          {
+            "id":"2",
+            "name":"普通话不标准",
+            "score":-2,
+            "count":20
+          },
+          {
+            "id":"3",
+            "name":"互动搞得好",
+            "score":2,
+            "count":387
+          },
+          {
+            "id":4,
+            "name":"知识点覆盖完善",
+            "score":2,
+            "count":23
+          }
+        ] 
+      },
+      {
+        "name":"备课",
+        "tags": [
+          {
+            "id":"5",
+            "name":"课件扎实",
+            "score":1,
+            "count":124
+          }
+        ] 
+      }
+    ],
+    "num_of_like": 1254,
+    "num_of_collection": 12,
+    "num_of_comment": 50,
+    "num_of_view": 3543,
+    "num_of_follow":342,
+    "follow":true,
+    "like": true,
+    "collection": false,
+    "actors": [
+      {
+        "id": "te1",
+        "name": "李建军",
+        "avatar_url": "assets/images/demo_avatar_1.jpeg"
+      },
+      {
+        "id": "te2",
+        "name": "喻良刚",
+        "avatar_url": "assets/images/demo_avatar_2.jpg"
+      }
+    ],
+    "major_actor": {
+      "id": "te1",
+      "name": "李建军",
+      "avatar_url": "assets/images/demo_avatar_1.jpeg"
+    },
+    "producer": {
+      "serialNo": "SU000000006",
+      "name": "棠湖中学",
+      "code": "THZX",
+      "description": "成都市双流区教育局直属中学、四川省一级示范性普通高中。",
+      "address": null
+    },
+    "ali_video_info": {
+      "status": "Normal",
+      "modifyTime": "2019-10-16T02:52:41Z",
+      "videoId": "1a1f14779626484bb6fcfc803a8e2dfe",
+      "size": 26239760,
+      "createTime": "2019-10-16 10:52:07",
+      "title": "1111",
+      "duration": 213.996,
+      "modificationTime": "2019-10-16T02:52:41Z",
+      "cateId": 0,
+      "cateName": "未分类",
+      "appId": "app-1000000",
+      "creationTime": "2019-10-16T02:52:07Z",
+      "coverURL": "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00005.jpg",
+      "storageLocation": "outin-0e0328b29ba411e8ab7400163e1c94a4.oss-cn-shanghai.aliyuncs.com",
+      "snapshots": {
+        "snapshot": [
+          "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00001.jpg",
+          "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00002.jpg",
+          "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00003.jpg",
+          "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00004.jpg",
+          "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00005.jpg",
+          "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00006.jpg",
+          "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00007.jpg",
+          "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00008.jpg"
+        ]
+      }
+    },
+    "ali_play_infos": {
+      "playInfo": [
+        {
+          "status": "Normal",
+          "streamType": "video",
+          "size": 28854616,
+          "definition": "LD",
+          "fps": "25",
+          "duration": "214.0064",
+          "modificationTime": "2019-10-16T02:52:43Z",
+          "specification": "H264.SD",
+          "bitrate": "1078.644",
+          "encrypt": 0,
+          "preprocessStatus": "UnPreprocess",
+          "format": "m3u8",
+          "playURL": "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/bf7fc3f0c6bd4c93b8c5a6df625242eb-3baa6d94ed87ae28b45ba13913a5ba2f-ld.m3u8",
+          "narrowBandType": "0",
+          "creationTime": "2019-10-16T02:52:11Z",
+          "height": 540,
+          "width": 960,
+          "jobId": "0f699910df9744a9a847d26afba867a2"
+        },
+        {
+          "status": "Normal",
+          "streamType": "video",
+          "size": 26219094,
+          "definition": "LD",
+          "fps": "25",
+          "duration": "214.0420",
+          "modificationTime": "2019-10-16T02:52:41Z",
+          "specification": "H264.SD",
+          "bitrate": "979.96",
+          "encrypt": 0,
+          "preprocessStatus": "UnPreprocess",
+          "format": "mp4",
+          "playURL": "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/bf7fc3f0c6bd4c93b8c5a6df625242eb-e681db57ab15587dbc46510f95b62949-ld.mp4",
+          "narrowBandType": "0",
+          "creationTime": "2019-10-16T02:52:11Z",
+          "height": 540,
+          "width": 960,
+          "jobId": "3392929748824f8c9b42505433043268"
+        }
+      ]
+    },
+    "video_date": "2019/12/30 09:34:32",
+    "num_of_day": 3,
+    "day_of_week": 4,
+    "teachclass": {
+      "id": "1",
+      "name": "生物[理]A#1班",
+      "teacherid": "1",
+      "teacher_name": "周雪",
+      "classroomid": "1",
+      "classroom_name": "1栋-201",
+      "num": "55",
+      "num_actual": 55,
+      "courseid": "c1",
+      "course_name": "生物"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "id": "asdf12321dfdsasa",
+        "title": "海军招飞办召开海军青少年航空学校防疫保教视频会议",
+        "type": "1",
+        "description": "2020年2月14日15时，海军招飞办组织全国海军青少<br/>年航空实验学校召开远程视频会议，研究部署航校<br/>海航班新冠病毒防控、教育教学及宣传招生等工作。海军招飞办杨洁科长主持会议，胡敦馥副主任出席会议并做重要指示，我校挂职副校长兼党政办主任任飞扬、海航班负责人杨维国、海航班班主任吴荣华参加会议",
+        "imageUrl": "assets/images/demo_news_3.jpg",
+        "src": "assets/dummy/_activity_detail_content.html",
+        "senderid": "te1",
+        "sender_name": "李建军",
+        "sender_avatar_url": "assets/images/demo_avatar_1.jpeg",
+        "create_date": "2020/03/20 18:23:19",
+        "has_read": false,
+        "contents": ""
+    }
+}

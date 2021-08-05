@@ -1,0 +1,42 @@
+{
+    "code":0,
+    "msg":"",
+    "data":[
+        {
+            "id":"123",
+            "name":"语文",
+            "teacherid": "1",
+            "teacher_name": "周雪",
+            "tag":"文A",
+            "num": "55",
+            "num_actual": 53,
+            "is_choose":true,
+            "teachclass_name":"[理]语文理A#1班",
+            "teachclass_id":"TC11111111"
+        },
+        {
+            "id":"456",
+            "name":"数学",
+            "teacherid": "1",
+            "teacher_name": "周雪",
+            "tag":"文A+",
+            "num": "55",
+            "num_actual": 53,
+            "is_choose":true,
+            "teachclass_name":"[理]语文理A#1班",
+            "teachclass_id":"TC11111111"
+        },
+        {
+            "id":"789",
+            "name":"英语",
+            "tag":"文A",
+            "teacherid": "1",
+            "teacher_name": "周雪",
+            "num": "55",
+            "num_actual": 53,
+            "is_choose":false,
+            "teachclass_name":"[理]语文理A#1班",
+            "teachclass_id":"TC11111111"
+        }
+    ]
+}

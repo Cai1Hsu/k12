@@ -1,0 +1,134 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "id": "1",
+        "name": "2020春季学期第分层选课",
+        "status": "进行中", 
+        "type_name": "预选",
+        "is_allot_choose":false,
+        "is_allot_refound":true,
+        "course": [
+            {
+                "course_name": "语文",
+                "course_id": "123",
+                "teachclasses": [
+                    {
+                        "id": "1231",
+                        "name": "语文[理]A#1班",
+                        "teacherid": "1",
+                        "teacher_name": "周雪",
+                        "num": "55",
+                        "is_allot_choose": true,
+                        "num_actual": 53
+                    },
+                    {
+                        "id": "1232",
+                        "name": "语文[理]A#1班",
+                        "teacherid": "2",
+                        "teacher_name": "李建军",
+                        "num": "55",
+                        "is_allot_choose": true,
+                        "num_actual": 51
+                    },
+                    {
+                        "id": "1233",
+                        "name": "语文[理]A#1班",
+                        "teacherid": "1",
+                        "teacher_name": "王乐",
+                        "num": "55",
+                        "is_allot_choose": true,
+                        "num_actual": 49
+                    },
+                    {
+                        "id": "1232",
+                        "name": "语文[理]A#1班",
+                        "teacherid": "2",
+                        "teacher_name": "李建军",
+                        "num": "55",
+                        "is_allot_choose": true,
+                        "num_actual": 51
+                    },
+                    {
+                        "id": "1233",
+                        "name": "语文[理]A#1班",
+                        "teacherid": "1",
+                        "teacher_name": "王乐",
+                        "num": "55",
+                        "is_allot_choose": true,
+                        "num_actual": 49
+                    },
+                    {
+                        "id": "1232",
+                        "name": "语文[理]A#1班",
+                        "teacherid": "2",
+                        "teacher_name": "李建军",
+                        "num": "55",
+                        "is_allot_choose": true,
+                        "num_actual": 51
+                    },
+                    {
+                        "id": "1233",
+                        "name": "语文[理]A#1班",
+                        "teacherid": "1",
+                        "teacher_name": "王乐",
+                        "num": "55",
+                        "is_allot_choose": true,
+                        "num_actual": 49
+                    },
+                    {
+                        "id": "1232",
+                        "name": "语文[理]A#1班",
+                        "teacherid": "2",
+                        "teacher_name": "李建军",
+                        "num": "55",
+                        "is_allot_choose": true,
+                        "num_actual": 51
+                    },
+                    {
+                        "id": "1233",
+                        "name": "语文[理]A#1班",
+                        "teacherid": "1",
+                        "teacher_name": "王乐",
+                        "num": "55",
+                        "is_allot_choose": false,
+                        "num_actual": 49
+                    }
+                ]
+            },
+            {
+                "course_name": "数学",
+                "course_id": "456", 
+                "teachclasses": [
+                    {
+                        "id": "4561",
+                        "name": "数学[理]A#1班",
+                        "teacherid": "1",
+                        "teacher_name": "周雪",
+                        "num": "55",
+                        "is_allot_choose": false,
+                        "num_actual": 53
+                    },
+                    {
+                        "id": "4562",
+                        "name": "数学[理]A#1班",
+                        "teacherid": "2",
+                        "teacher_name": "李建军",
+                        "num": "55",
+                        "is_allot_choose": false,
+                        "num_actual": 51
+                    },
+                    {
+                        "id": "4563",
+                        "name": "数学[理]A#1班",
+                        "teacherid": "1",
+                        "teacher_name": "王乐",
+                        "is_allot_choose": false,
+                        "num": "55",
+                        "num_actual": 49
+                    }
+                ]
+            }
+        ]
+    }
+}

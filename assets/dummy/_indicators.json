@@ -1,0 +1,100 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": [
+        {
+            "id": "1",
+            "sid":"SU000000006",
+            "name": "出勤",
+            "type": "课堂考评",
+            "description": "",
+            "score":0,
+            "children": [
+                {
+                    "id": "2",
+                    "sid":"SU000000006",
+                    "name": "迟到",
+                    "type": "课堂考评",
+                    "description": "",
+                    "score":-1
+                },
+                {
+                    "id": "3",
+                    "sid":"SU000000006",
+                    "name": "早退",
+                    "type": "课堂考评",
+                    "description": "",
+                    "score":-1
+                },
+                {
+                    "id": "6",
+                    "sid":"SU000000006",
+                    "name": "旷课",
+                    "type": "课堂考评",
+                    "description": "",
+                    "score":-1
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "sid":"SU000000006",
+            "name": "结构化预习",
+            "type": "课堂考评",
+            "description": "",
+            "score":0,
+            "children": [
+                {
+                    "id": "8",
+                    "sid":"SU000000006",
+                    "name": "未完成预习",
+                    "type": "课堂考评",
+                    "description": "",
+                    "score":-1
+                },
+                {
+                    "id": "3",
+                    "sid":"SU000000006",
+                    "name": "认真预习",
+                    "type": "课堂考评",
+                    "description": "",
+                    "score":1
+                },
+                {
+                    "id": "6",
+                    "sid":"SU000000006",
+                    "name": "完全没有预习",
+                    "type": "课堂考评",
+                    "description": "",
+                    "score":-2
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "sid":"SU000000006",
+            "name": "寝室管理",
+            "type": "操行评定",
+            "description": "",
+            "score":0,
+            "children": [
+                {
+                    "id": "522",
+                    "sid":"SU000000006",
+                    "name": "违规用电",
+                    "type": "操行评定",
+                    "description": "",
+                    "score":-2
+                },
+                {
+                    "id": "15",
+                    "sid":"SU000000006",
+                    "name": "脏、乱、差",
+                    "type": "操行评定",
+                    "description": "",
+                    "score":-1
+                }
+            ]
+        }
+    ]
+}

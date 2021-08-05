@@ -1,0 +1,90 @@
+{
+    "code": 0,
+    "msg": "查询成功",
+    "data": [
+        {
+            "serialNo": "EY000000009",
+            "name": "高2017级",
+            "startYear": 2017,
+            "endYear": 2020,
+            "schoolSerialNo": "SU000000006"
+        },
+        {
+            "serialNo": "EY000000010",
+            "name": "高2018级",
+            "startYear": 2018,
+            "endYear": 2021,
+            "schoolSerialNo": "SU000000006"
+        },
+        {
+            "serialNo": "EY000000037",
+            "name": "高2019级",
+            "startYear": 2019,
+            "endYear": 2022,
+            "schoolSerialNo": "SU000000006"
+        },
+        {
+            "serialNo": "EY000000046",
+            "name": "初2017级",
+            "startYear": 2017,
+            "endYear": 2020,
+            "schoolSerialNo": "SU000000006"
+        },
+        {
+            "serialNo": "EY000000047",
+            "name": "初2018级",
+            "startYear": 2018,
+            "endYear": 2021,
+            "schoolSerialNo": "SU000000006"
+        },
+        {
+            "serialNo": "EY000000048",
+            "name": "初2019级",
+            "startYear": 2019,
+            "endYear": 2022,
+            "schoolSerialNo": "SU000000006"
+        },
+        {
+            "serialNo": "EY000000176",
+            "name": "高2020级",
+            "startYear": 2020,
+            "endYear": 2023,
+            "schoolSerialNo": "SU000000006"
+        },
+        {
+            "serialNo": "EY000000177",
+            "name": "初2020级",
+            "startYear": 2020,
+            "endYear": 2023,
+            "schoolSerialNo": "SU000000006"
+        },
+        {
+            "serialNo": "EY000000180",
+            "name": "高2021级",
+            "startYear": 2021,
+            "endYear": 2024,
+            "schoolSerialNo": "SU000000006"
+        },
+        {
+            "serialNo": "EY000000181",
+            "name": "初2021级",
+            "startYear": 2021,
+            "endYear": 2024,
+            "schoolSerialNo": "SU000000006"
+        },
+        {
+            "serialNo": "EY000000231",
+            "name": "小2021级",
+            "startYear": 2021,
+            "endYear": 2027,
+            "schoolSerialNo": "SU000000006"
+        },
+        {
+            "serialNo": "EY000000291",
+            "name": "初2010级",
+            "startYear": 2010,
+            "endYear": 2013,
+            "schoolSerialNo": "SU000000006"
+        }
+    ]
+}

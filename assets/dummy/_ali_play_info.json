@@ -1,0 +1,58 @@
+{
+	"VideoBase": {
+		"Status": "Normal",
+		"VideoId": "1a1f14779626484bb6fcfc803a8e2dfe",
+		"TranscodeMode": "FastTranscode",
+		"CreationTime": "2019-10-16T02:52:07Z",
+		"Title": "1111",
+		"MediaType": "video",
+		"CoverURL": "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00005.jpg",
+		"Duration": "213.996",
+		"OutputType": "cdn"
+	},
+	"RequestId": "70E30EEB-EE97-4EA9-98AA-302C882429C7",
+	"PlayInfoList": {
+		"PlayInfo": [
+			{
+				"Status": "Normal",
+				"StreamType": "video",
+				"Size": 28854616,
+				"Definition": "LD",
+				"Fps": "25",
+				"Duration": "214.0064",
+				"ModificationTime": "2019-10-16T02:52:43Z",
+				"Specification": "H264.SD",
+				"Bitrate": "1078.644",
+				"Encrypt": 0,
+				"PreprocessStatus": "UnPreprocess",
+				"Format": "m3u8",
+				"PlayURL": "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/bf7fc3f0c6bd4c93b8c5a6df625242eb-3baa6d94ed87ae28b45ba13913a5ba2f-ld.m3u8",
+				"NarrowBandType": "0",
+				"CreationTime": "2019-10-16T02:52:11Z",
+				"Height": 540,
+				"Width": 960,
+				"JobId": "0f699910df9744a9a847d26afba867a2"
+			},
+			{
+				"Status": "Normal",
+				"StreamType": "video",
+				"Size": 26219094,
+				"Definition": "LD",
+				"Fps": "25",
+				"Duration": "214.0420",
+				"ModificationTime": "2019-10-16T02:52:41Z",
+				"Specification": "H264.SD",
+				"Bitrate": "979.96",
+				"Encrypt": 0,
+				"PreprocessStatus": "UnPreprocess",
+				"Format": "mp4",
+				"PlayURL": "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/bf7fc3f0c6bd4c93b8c5a6df625242eb-e681db57ab15587dbc46510f95b62949-ld.mp4",
+				"NarrowBandType": "0",
+				"CreationTime": "2019-10-16T02:52:11Z",
+				"Height": 540,
+				"Width": 960,
+				"JobId": "3392929748824f8c9b42505433043268"
+			}
+		]
+	}
+}

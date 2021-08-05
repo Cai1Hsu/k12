@@ -1,0 +1,67 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": [
+        {
+            "eduyear": {
+                "serialNo": "EY000000009",
+                "name": "高2017级",
+                "startYear": 2017,
+                "endYear": 2020,
+                "schoolSerialNo": "SU000000006"
+            },
+            "klasses": [
+                {
+                    "serialNo": "KL000004829",
+                    "name": "高一5班",
+                    "teacherSerialNo": "TE000000137",
+                    "teacherNo": "WP027",
+                    "teacherName": "黄宇翔",
+                    "classRoomSerialNo": "CL000000276",
+                    "classRoomName": "3幢-205",
+                    "eduYearSerialNo": "EY000000010",
+                    "eduYearName": "高2018级",
+                    "semesterSerialNo": "SS000000022",
+                    "semesterName": "2019-2020学年第1学期"
+                },
+                {
+                    "serialNo": "KL000004830",
+                    "name": "高一6班",
+                    "teacherSerialNo": "TE000000541",
+                    "teacherNo": "tz439",
+                    "teacherName": "李瑛",
+                    "classRoomSerialNo": "CL000000277",
+                    "classRoomName": "3幢-206",
+                    "eduYearSerialNo": "EY000000010",
+                    "eduYearName": "高2018级",
+                    "semesterSerialNo": "SS000000022",
+                    "semesterName": "2019-2020学年第1学期"
+                }
+            ]
+        },
+        {
+            "eduyear": {
+                "serialNo": "EY000000010",
+                "name": "高2018级",
+                "startYear": 2018,
+                "endYear": 2021,
+                "schoolSerialNo": "SU000000006"
+            },
+            "klasses": [
+                {
+                    "serialNo": "KL000004828",
+                    "name": "高一4班",
+                    "teacherSerialNo": "TE000000445",
+                    "teacherNo": "tz513",
+                    "teacherName": "张成飞",
+                    "classRoomSerialNo": "CL000000275",
+                    "classRoomName": "3幢-204",
+                    "eduYearSerialNo": "EY000000010",
+                    "eduYearName": "高2018级",
+                    "semesterSerialNo": "SS000000022",
+                    "semesterName": "2019-2020学年第1学期"
+                }
+            ]
+        }
+    ]
+}

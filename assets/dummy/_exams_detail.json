@@ -1,0 +1,31 @@
+{
+	"code": 0,
+	"msg": null,
+	"count": 3,
+	"data": [ 
+        {
+            "class_id":"fdasfdsafdasfdas",
+            "class_name":"高2019级1班",
+            "student_list":[
+                {
+                    "student_id":"4c77324dd178450ebd1eda6a6f222cb8",
+                    "student_name":"顾荷花1",
+                    "avatar":"http://static.szymr.com/THApp/StudentCheckIn/12ad3309-48d1-4ed0-a9ba-8e9934f87477.png",
+                    "exam_course": ["数学", "英语", "语文"]
+                }, 
+                {
+                    "student_id":"4c77324dd178450ebd1eda6a6f222cb8",
+                    "student_name":"顾荷花2",
+                    "avatar":"http://static.szymr.com/THApp/StudentCheckIn/12ad3309-48d1-4ed0-a9ba-8e9934f87477.png",
+                    "exam_course": ["数学", "英语", "语文"]
+                }, 
+                {
+                    "student_id":"4c77324dd178450ebd1eda6a6f222cb8",
+                    "student_name":"顾荷花3",
+                    "avatar":"http://static.szymr.com/THApp/StudentCheckIn/12ad3309-48d1-4ed0-a9ba-8e9934f87477.png",
+                    "exam_course": ["数学", "英语", "语文"]
+                }
+            ]
+        }
+    ]
+}

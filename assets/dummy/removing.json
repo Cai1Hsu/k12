@@ -1,0 +1,288 @@
+{
+  "requestId": "9C79F0A8-8D84-41E6-B3A2-851808CACFCE",
+  "total": 262,
+  "videoList": {
+    "video": [
+      {
+        "status": "Normal",
+        "modifyTime": "2019-10-16T02:52:41Z",
+        "videoId": "1a1f14779626484bb6fcfc803a8e2dfe",
+        "size": 26239760,
+        "createTime": "2019-10-16 10:52:07",
+        "title": "1111",
+        "duration": 213.996,
+        "modificationTime": "2019-10-16T02:52:41Z",
+        "cateId": 0,
+        "cateName": "未分类",
+        "appId": "app-1000000",
+        "creationTime": "2019-10-16T02:52:07Z",
+        "coverURL": "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00005.jpg",
+        "storageLocation": "outin-0e0328b29ba411e8ab7400163e1c94a4.oss-cn-shanghai.aliyuncs.com",
+        "snapshots": {
+          "snapshot": [
+            "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00001.jpg",
+            "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00002.jpg",
+            "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00003.jpg",
+            "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00004.jpg",
+            "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00005.jpg",
+            "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00006.jpg",
+            "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00007.jpg",
+            "http://v.k12top.com/1a1f14779626484bb6fcfc803a8e2dfe/covers/36404e1b330e4434a7c156a15df1a5f8-00008.jpg"
+          ]
+        }
+      },
+      {
+        "status": "Normal",
+        "modifyTime": "2019-10-16T02:47:55Z",
+        "videoId": "2997b67414874f03bfe772b582f578e6",
+        "size": 26239760,
+        "createTime": "2019-10-16 10:47:21",
+        "title": "1111",
+        "duration": 213.996,
+        "modificationTime": "2019-10-16T02:47:55Z",
+        "cateId": 0,
+        "cateName": "未分类",
+        "appId": "app-1000000",
+        "creationTime": "2019-10-16T02:47:21Z",
+        "coverURL": "http://v.k12top.com/2997b67414874f03bfe772b582f578e6/covers/21f35be263f445ec924f2154eb639d1c-00005.jpg",
+        "storageLocation": "outin-0e0328b29ba411e8ab7400163e1c94a4.oss-cn-shanghai.aliyuncs.com",
+        "snapshots": {
+          "snapshot": [
+            "http://v.k12top.com/2997b67414874f03bfe772b582f578e6/covers/21f35be263f445ec924f2154eb639d1c-00001.jpg",
+            "http://v.k12top.com/2997b67414874f03bfe772b582f578e6/covers/21f35be263f445ec924f2154eb639d1c-00002.jpg",
+            "http://v.k12top.com/2997b67414874f03bfe772b582f578e6/covers/21f35be263f445ec924f2154eb639d1c-00003.jpg",
+            "http://v.k12top.com/2997b67414874f03bfe772b582f578e6/covers/21f35be263f445ec924f2154eb639d1c-00004.jpg",
+            "http://v.k12top.com/2997b67414874f03bfe772b582f578e6/covers/21f35be263f445ec924f2154eb639d1c-00005.jpg",
+            "http://v.k12top.com/2997b67414874f03bfe772b582f578e6/covers/21f35be263f445ec924f2154eb639d1c-00006.jpg",
+            "http://v.k12top.com/2997b67414874f03bfe772b582f578e6/covers/21f35be263f445ec924f2154eb639d1c-00007.jpg",
+            "http://v.k12top.com/2997b67414874f03bfe772b582f578e6/covers/21f35be263f445ec924f2154eb639d1c-00008.jpg"
+          ]
+        }
+      },
+      {
+        "status": "Normal",
+        "modifyTime": "2019-04-01T01:59:56Z",
+        "videoId": "a7b07ab304684ee3945578d84850a6c5",
+        "size": 328091520,
+        "createTime": "2019-04-01 09:58:00",
+        "title": "thzx",
+        "duration": 542.8045,
+        "modificationTime": "2019-04-01T01:59:56Z",
+        "cateId": 0,
+        "cateName": "未分类",
+        "appId": "app-1000000",
+        "creationTime": "2019-04-01T01:58:00Z",
+        "coverURL": "http://v.k12top.com/a7b07ab304684ee3945578d84850a6c5/covers/976f280c73574ceba283b57f9baceb88-00005.jpg",
+        "storageLocation": "outin-0e0328b29ba411e8ab7400163e1c94a4.oss-cn-shanghai.aliyuncs.com",
+        "snapshots": {
+          "snapshot": [
+            "http://v.k12top.com/a7b07ab304684ee3945578d84850a6c5/covers/976f280c73574ceba283b57f9baceb88-00001.jpg",
+            "http://v.k12top.com/a7b07ab304684ee3945578d84850a6c5/covers/976f280c73574ceba283b57f9baceb88-00002.jpg",
+            "http://v.k12top.com/a7b07ab304684ee3945578d84850a6c5/covers/976f280c73574ceba283b57f9baceb88-00003.jpg",
+            "http://v.k12top.com/a7b07ab304684ee3945578d84850a6c5/covers/976f280c73574ceba283b57f9baceb88-00004.jpg",
+            "http://v.k12top.com/a7b07ab304684ee3945578d84850a6c5/covers/976f280c73574ceba283b57f9baceb88-00005.jpg",
+            "http://v.k12top.com/a7b07ab304684ee3945578d84850a6c5/covers/976f280c73574ceba283b57f9baceb88-00006.jpg",
+            "http://v.k12top.com/a7b07ab304684ee3945578d84850a6c5/covers/976f280c73574ceba283b57f9baceb88-00007.jpg",
+            "http://v.k12top.com/a7b07ab304684ee3945578d84850a6c5/covers/976f280c73574ceba283b57f9baceb88-00008.jpg"
+          ]
+        }
+      },
+      {
+        "status": "Normal",
+        "modifyTime": "2018-10-23T03:15:42Z",
+        "videoId": "78dbe67ab34147aa995b1ca4c9e1b04d",
+        "size": 327600320,
+        "createTime": "2018-10-23 11:11:22",
+        "title": "DSC_0625",
+        "duration": 1200.024,
+        "modificationTime": "2018-10-23T03:15:42Z",
+        "cateId": 0,
+        "cateName": "未分类",
+        "appId": "app-1000000",
+        "creationTime": "2018-10-23T03:11:22Z",
+        "coverURL": "http://v.k12top.com/78dbe67ab34147aa995b1ca4c9e1b04d/covers/b8254980ef4748fa88f469489009d88e-00005.jpg",
+        "storageLocation": "outin-0e0328b29ba411e8ab7400163e1c94a4.oss-cn-shanghai.aliyuncs.com",
+        "snapshots": {
+          "snapshot": [
+            "http://v.k12top.com/78dbe67ab34147aa995b1ca4c9e1b04d/covers/b8254980ef4748fa88f469489009d88e-00001.jpg",
+            "http://v.k12top.com/78dbe67ab34147aa995b1ca4c9e1b04d/covers/b8254980ef4748fa88f469489009d88e-00002.jpg",
+            "http://v.k12top.com/78dbe67ab34147aa995b1ca4c9e1b04d/covers/b8254980ef4748fa88f469489009d88e-00003.jpg",
+            "http://v.k12top.com/78dbe67ab34147aa995b1ca4c9e1b04d/covers/b8254980ef4748fa88f469489009d88e-00004.jpg",
+            "http://v.k12top.com/78dbe67ab34147aa995b1ca4c9e1b04d/covers/b8254980ef4748fa88f469489009d88e-00005.jpg",
+            "http://v.k12top.com/78dbe67ab34147aa995b1ca4c9e1b04d/covers/b8254980ef4748fa88f469489009d88e-00006.jpg",
+            "http://v.k12top.com/78dbe67ab34147aa995b1ca4c9e1b04d/covers/b8254980ef4748fa88f469489009d88e-00007.jpg",
+            "http://v.k12top.com/78dbe67ab34147aa995b1ca4c9e1b04d/covers/b8254980ef4748fa88f469489009d88e-00008.jpg"
+          ]
+        }
+      },
+      {
+        "status": "Normal",
+        "modifyTime": "2018-09-30T02:25:25Z",
+        "videoId": "64c4dd83a4ae4e36b6da49528c041054",
+        "size": 17822460,
+        "createTime": "2018-09-30 10:24:23",
+        "title": "田馥甄 - 自己的房间",
+        "duration": 265.432,
+        "modificationTime": "2018-09-30T02:25:25Z",
+        "cateId": 0,
+        "cateName": "未分类",
+        "appId": "app-1000000",
+        "creationTime": "2018-09-30T02:24:23Z",
+        "coverURL": "http://v.k12top.com/64c4dd83a4ae4e36b6da49528c041054/covers/fbc3a59517464475bae733ce97390018-00005.jpg",
+        "storageLocation": "outin-0e0328b29ba411e8ab7400163e1c94a4.oss-cn-shanghai.aliyuncs.com",
+        "snapshots": {
+          "snapshot": [
+            "http://v.k12top.com/64c4dd83a4ae4e36b6da49528c041054/covers/fbc3a59517464475bae733ce97390018-00001.jpg",
+            "http://v.k12top.com/64c4dd83a4ae4e36b6da49528c041054/covers/fbc3a59517464475bae733ce97390018-00002.jpg",
+            "http://v.k12top.com/64c4dd83a4ae4e36b6da49528c041054/covers/fbc3a59517464475bae733ce97390018-00003.jpg",
+            "http://v.k12top.com/64c4dd83a4ae4e36b6da49528c041054/covers/fbc3a59517464475bae733ce97390018-00004.jpg",
+            "http://v.k12top.com/64c4dd83a4ae4e36b6da49528c041054/covers/fbc3a59517464475bae733ce97390018-00005.jpg",
+            "http://v.k12top.com/64c4dd83a4ae4e36b6da49528c041054/covers/fbc3a59517464475bae733ce97390018-00006.jpg",
+            "http://v.k12top.com/64c4dd83a4ae4e36b6da49528c041054/covers/fbc3a59517464475bae733ce97390018-00007.jpg",
+            "http://v.k12top.com/64c4dd83a4ae4e36b6da49528c041054/covers/fbc3a59517464475bae733ce97390018-00008.jpg"
+          ]
+        }
+      },
+      {
+        "status": "Normal",
+        "modifyTime": "2018-09-29T07:13:56Z",
+        "videoId": "3b875aadc1804058bd5f0ffe82f52e28",
+        "size": 121820096,
+        "createTime": "2018-09-29 15:11:06",
+        "title": "林宥嘉 - 【幕后独家】林宥嘉：让小朋友能够拥有听见这个世界的能力",
+        "duration": 444.72,
+        "modificationTime": "2018-09-29T07:13:56Z",
+        "cateId": 0,
+        "cateName": "未分类",
+        "appId": "app-1000000",
+        "creationTime": "2018-09-29T07:11:06Z",
+        "coverURL": "http://v.k12top.com/3b875aadc1804058bd5f0ffe82f52e28/covers/d384c6452b614d9ba5e02b34586cdbd9-00005.jpg",
+        "storageLocation": "outin-0e0328b29ba411e8ab7400163e1c94a4.oss-cn-shanghai.aliyuncs.com",
+        "snapshots": {
+          "snapshot": [
+            "http://v.k12top.com/3b875aadc1804058bd5f0ffe82f52e28/covers/d384c6452b614d9ba5e02b34586cdbd9-00001.jpg",
+            "http://v.k12top.com/3b875aadc1804058bd5f0ffe82f52e28/covers/d384c6452b614d9ba5e02b34586cdbd9-00002.jpg",
+            "http://v.k12top.com/3b875aadc1804058bd5f0ffe82f52e28/covers/d384c6452b614d9ba5e02b34586cdbd9-00003.jpg",
+            "http://v.k12top.com/3b875aadc1804058bd5f0ffe82f52e28/covers/d384c6452b614d9ba5e02b34586cdbd9-00004.jpg",
+            "http://v.k12top.com/3b875aadc1804058bd5f0ffe82f52e28/covers/d384c6452b614d9ba5e02b34586cdbd9-00005.jpg",
+            "http://v.k12top.com/3b875aadc1804058bd5f0ffe82f52e28/covers/d384c6452b614d9ba5e02b34586cdbd9-00006.jpg",
+            "http://v.k12top.com/3b875aadc1804058bd5f0ffe82f52e28/covers/d384c6452b614d9ba5e02b34586cdbd9-00007.jpg",
+            "http://v.k12top.com/3b875aadc1804058bd5f0ffe82f52e28/covers/d384c6452b614d9ba5e02b34586cdbd9-00008.jpg"
+          ]
+        }
+      },
+      {
+        "status": "Normal",
+        "modifyTime": "2018-09-25T02:58:18Z",
+        "videoId": "abccc3881c6541ff93ea96235f77b707",
+        "size": 20179568,
+        "createTime": "2018-09-25 10:57:33",
+        "title": "潘玮柏 - Moonlight",
+        "duration": 233.6,
+        "modificationTime": "2018-09-25T02:58:18Z",
+        "cateId": 0,
+        "cateName": "未分类",
+        "appId": "app-1000000",
+        "creationTime": "2018-09-25T02:57:33Z",
+        "coverURL": "http://v.k12top.com/abccc3881c6541ff93ea96235f77b707/covers/0799c5e999574b328a0092e67c81ce51-00005.jpg",
+        "storageLocation": "outin-0e0328b29ba411e8ab7400163e1c94a4.oss-cn-shanghai.aliyuncs.com",
+        "snapshots": {
+          "snapshot": [
+            "http://v.k12top.com/abccc3881c6541ff93ea96235f77b707/covers/0799c5e999574b328a0092e67c81ce51-00001.jpg",
+            "http://v.k12top.com/abccc3881c6541ff93ea96235f77b707/covers/0799c5e999574b328a0092e67c81ce51-00002.jpg",
+            "http://v.k12top.com/abccc3881c6541ff93ea96235f77b707/covers/0799c5e999574b328a0092e67c81ce51-00003.jpg",
+            "http://v.k12top.com/abccc3881c6541ff93ea96235f77b707/covers/0799c5e999574b328a0092e67c81ce51-00004.jpg",
+            "http://v.k12top.com/abccc3881c6541ff93ea96235f77b707/covers/0799c5e999574b328a0092e67c81ce51-00005.jpg",
+            "http://v.k12top.com/abccc3881c6541ff93ea96235f77b707/covers/0799c5e999574b328a0092e67c81ce51-00006.jpg",
+            "http://v.k12top.com/abccc3881c6541ff93ea96235f77b707/covers/0799c5e999574b328a0092e67c81ce51-00007.jpg",
+            "http://v.k12top.com/abccc3881c6541ff93ea96235f77b707/covers/0799c5e999574b328a0092e67c81ce51-00008.jpg"
+          ]
+        }
+      },
+      {
+        "status": "Normal",
+        "modifyTime": "2018-09-21T09:32:16Z",
+        "videoId": "af3db19dc0cf4dac918bed1fb71b55cc",
+        "size": 152763744,
+        "createTime": "2018-09-21 17:30:26",
+        "title": "生物4",
+        "duration": 561.024,
+        "modificationTime": "2018-09-21T09:32:16Z",
+        "cateId": 0,
+        "cateName": "未分类",
+        "appId": "app-1000000",
+        "creationTime": "2018-09-21T09:30:26Z",
+        "coverURL": "http://v.k12top.com/af3db19dc0cf4dac918bed1fb71b55cc/covers/9763b66507044e82abe7f2e7bfb7a0b1-00005.jpg",
+        "storageLocation": "outin-0e0328b29ba411e8ab7400163e1c94a4.oss-cn-shanghai.aliyuncs.com",
+        "snapshots": {
+          "snapshot": [
+            "http://v.k12top.com/af3db19dc0cf4dac918bed1fb71b55cc/covers/9763b66507044e82abe7f2e7bfb7a0b1-00001.jpg",
+            "http://v.k12top.com/af3db19dc0cf4dac918bed1fb71b55cc/covers/9763b66507044e82abe7f2e7bfb7a0b1-00002.jpg",
+            "http://v.k12top.com/af3db19dc0cf4dac918bed1fb71b55cc/covers/9763b66507044e82abe7f2e7bfb7a0b1-00003.jpg",
+            "http://v.k12top.com/af3db19dc0cf4dac918bed1fb71b55cc/covers/9763b66507044e82abe7f2e7bfb7a0b1-00004.jpg",
+            "http://v.k12top.com/af3db19dc0cf4dac918bed1fb71b55cc/covers/9763b66507044e82abe7f2e7bfb7a0b1-00005.jpg",
+            "http://v.k12top.com/af3db19dc0cf4dac918bed1fb71b55cc/covers/9763b66507044e82abe7f2e7bfb7a0b1-00006.jpg",
+            "http://v.k12top.com/af3db19dc0cf4dac918bed1fb71b55cc/covers/9763b66507044e82abe7f2e7bfb7a0b1-00007.jpg",
+            "http://v.k12top.com/af3db19dc0cf4dac918bed1fb71b55cc/covers/9763b66507044e82abe7f2e7bfb7a0b1-00008.jpg"
+          ]
+        }
+      },
+      {
+        "status": "Normal",
+        "modifyTime": "2018-09-21T03:52:28Z",
+        "videoId": "23399ff30f3c462f8bf49cf72fff88f4",
+        "size": 20179568,
+        "createTime": "2018-09-21 11:51:40",
+        "title": "潘玮柏 - Moonlight",
+        "duration": 233.6,
+        "modificationTime": "2018-09-21T03:52:28Z",
+        "cateId": 0,
+        "cateName": "未分类",
+        "appId": "app-1000000",
+        "creationTime": "2018-09-21T03:51:40Z",
+        "coverURL": "http://v.k12top.com/23399ff30f3c462f8bf49cf72fff88f4/covers/aa619e2cfa3c40ccacd123520e922e38-00005.jpg",
+        "storageLocation": "outin-0e0328b29ba411e8ab7400163e1c94a4.oss-cn-shanghai.aliyuncs.com",
+        "snapshots": {
+          "snapshot": [
+            "http://v.k12top.com/23399ff30f3c462f8bf49cf72fff88f4/covers/aa619e2cfa3c40ccacd123520e922e38-00001.jpg",
+            "http://v.k12top.com/23399ff30f3c462f8bf49cf72fff88f4/covers/aa619e2cfa3c40ccacd123520e922e38-00002.jpg",
+            "http://v.k12top.com/23399ff30f3c462f8bf49cf72fff88f4/covers/aa619e2cfa3c40ccacd123520e922e38-00003.jpg",
+            "http://v.k12top.com/23399ff30f3c462f8bf49cf72fff88f4/covers/aa619e2cfa3c40ccacd123520e922e38-00004.jpg",
+            "http://v.k12top.com/23399ff30f3c462f8bf49cf72fff88f4/covers/aa619e2cfa3c40ccacd123520e922e38-00005.jpg",
+            "http://v.k12top.com/23399ff30f3c462f8bf49cf72fff88f4/covers/aa619e2cfa3c40ccacd123520e922e38-00006.jpg",
+            "http://v.k12top.com/23399ff30f3c462f8bf49cf72fff88f4/covers/aa619e2cfa3c40ccacd123520e922e38-00007.jpg",
+            "http://v.k12top.com/23399ff30f3c462f8bf49cf72fff88f4/covers/aa619e2cfa3c40ccacd123520e922e38-00008.jpg"
+          ]
+        }
+      },
+      {
+        "status": "Normal",
+        "modifyTime": "2018-09-21T03:53:27Z",
+        "videoId": "adfc7d5099e54b5c81f17c2e2788efd4",
+        "size": 28957012,
+        "createTime": "2018-09-21 11:51:36",
+        "title": "1dddd",
+        "duration": 213.9483,
+        "modificationTime": "2018-09-21T03:53:27Z",
+        "cateId": 0,
+        "cateName": "未分类",
+        "appId": "app-1000000",
+        "creationTime": "2018-09-21T03:51:36Z",
+        "coverURL": "http://v.k12top.com/adfc7d5099e54b5c81f17c2e2788efd4/covers/b4662fe62303451c9302645f2ce0bc12-00005.jpg",
+        "storageLocation": "outin-0e0328b29ba411e8ab7400163e1c94a4.oss-cn-shanghai.aliyuncs.com",
+        "snapshots": {
+          "snapshot": [
+            "http://v.k12top.com/adfc7d5099e54b5c81f17c2e2788efd4/covers/b4662fe62303451c9302645f2ce0bc12-00001.jpg",
+            "http://v.k12top.com/adfc7d5099e54b5c81f17c2e2788efd4/covers/b4662fe62303451c9302645f2ce0bc12-00002.jpg",
+            "http://v.k12top.com/adfc7d5099e54b5c81f17c2e2788efd4/covers/b4662fe62303451c9302645f2ce0bc12-00003.jpg",
+            "http://v.k12top.com/adfc7d5099e54b5c81f17c2e2788efd4/covers/b4662fe62303451c9302645f2ce0bc12-00004.jpg",
+            "http://v.k12top.com/adfc7d5099e54b5c81f17c2e2788efd4/covers/b4662fe62303451c9302645f2ce0bc12-00005.jpg",
+            "http://v.k12top.com/adfc7d5099e54b5c81f17c2e2788efd4/covers/b4662fe62303451c9302645f2ce0bc12-00006.jpg",
+            "http://v.k12top.com/adfc7d5099e54b5c81f17c2e2788efd4/covers/b4662fe62303451c9302645f2ce0bc12-00007.jpg",
+            "http://v.k12top.com/adfc7d5099e54b5c81f17c2e2788efd4/covers/b4662fe62303451c9302645f2ce0bc12-00008.jpg"
+          ]
+        }
+      }
+    ]
+  }
+}

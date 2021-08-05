@@ -1,0 +1,29 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "id": "te1",
+        "name": "李建军",
+        "avatar_url": "assets/images/demo_avatar_1.jpeg",
+        "description": "",
+        "courses": [
+            {
+                "id": "1",
+                "name": "语文",
+                "description": ""
+            }
+        ],
+        "grades": [
+            {
+                "serialNo": "EY000000009",
+                "name": "高2017级",
+                "startYear": 2017,
+                "endYear": 2020,
+                "schoolSerialNo": "SU000000006"
+            }
+        ],
+        "birthday": "",
+        "gender": "",
+        "phone": "13978659098"
+    }
+}

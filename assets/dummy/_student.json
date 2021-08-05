@@ -1,0 +1,21 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "id": "SU20190102",
+        "registerid": "RE20190102",
+        "name": "张胜雅",
+        "gender": "1",
+        "phone": "13909090808",
+        "grade": {
+            "serialNo": "EY000000010",
+            "name": "高2018级",
+            "startYear": 2018,
+            "endYear": 2021,
+            "schoolSerialNo": "SU000000006"
+        },
+        "schoolid": "SU000000006",
+        "parentid": "JZ0000001",
+        "avatar": "assets/images/demo_avatar_1.jpeg"
+    }   
+}

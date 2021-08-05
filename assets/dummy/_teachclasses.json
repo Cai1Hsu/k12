@@ -1,0 +1,36 @@
+{
+    "code":0,
+    "msg":"",
+    "data":[
+        {
+            "id":"1",
+            "name":"生物[理]A#1班",
+            "teacherid":"1",
+            "teacher_name":"周雪",
+            "classroomid":"1",
+            "classroom_name":"1栋-201",
+            "num":"55",
+            "num_actual":55
+        },
+        {
+            "id":"2",
+            "name":"物理[理]A#1班",
+            "teacherid":"2",
+            "teacher_name":"李建军",
+            "classroomid":"2",
+            "classroom_name":"1栋-202",
+            "num":"55",
+            "num_actual":55
+        },
+        {
+            "id":"3",
+            "name":"化学[理]A#1班",
+            "teacherid":"1",
+            "teacher_name":"王乐",
+            "classroomid":"3",
+            "classroom_name":"1栋-203",
+            "num":"55",
+            "num_actual":55
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "code": 0,
+    "msg": "",
+    "data":  [
+        {
+            "id": "ST000000001",
+            "name": "weibo",
+            "registerid": "1901200001",
+            "avatar": "assets/images/demo_avatar_1.jpeg",
+            "status_text":"未选完" 
+        },
+        {
+            "id": "ST000000001",
+            "name": "weibo",
+            "registerid": "1901200001",
+            "status_text":"未选完",
+            "avatar": "assets/images/demo_avatar_1.jpeg" 
+        },
+        {
+            "id": "ST000000001",
+            "name": "weibo",
+            "registerid": "1901200001",
+            "status_text":"未选完",
+            "avatar": "assets/images/demo_avatar_1.jpeg" 
+        },
+        {
+            "id": "ST000000001",
+            "name": "weibo",
+            "registerid": "1901200001",
+            "status_text":"未选完",
+            "avatar": "assets/images/demo_avatar_1.jpeg" 
+        },
+        {
+            "id": "ST000000001",
+            "name": "weibo",
+            "registerid": "1901200001",
+            "status_text":"未选完",
+            "avatar": "assets/images/demo_avatar_1.jpeg" 
+        },
+        {
+            "id": "ST000000001",
+            "name": "weibo",
+            "status_text":"未选完",
+            "registerid": "1901200001",
+            "avatar": "assets/images/demo_avatar_1.jpeg" 
+        },
+        {
+            "id": "ST000000001",
+            "name": "weibo",
+            "status_text":"未选完",
+            "registerid": "1901200001",
+            "avatar": "assets/images/demo_avatar_1.jpeg" 
+        }
+    ]
+}

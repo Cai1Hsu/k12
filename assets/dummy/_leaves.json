@@ -1,0 +1,246 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": [
+        {
+            "id": "1",
+            "name": "",
+            "type": "病假",
+            "occurence": "循环",
+            "start_on": "2020/03/01",
+            "end_on": "2020/03/31",
+            "submit_on": "2020/02/24 17:08:09",
+            "reason": "生病",
+            "student": {
+                "id": "SU20190102",
+                "registerid": "RE20190102",
+                "name": "张胜雅",
+                "gender": "1",
+                "phone": "13909090808",
+                "grade": {
+                    "serialNo": "EY000000010",
+                    "name": "高2018级",
+                    "startYear": 2018,
+                    "endYear": 2021,
+                    "schoolSerialNo": "SU000000006"
+                },
+                "schoolid": "SU000000006",
+                "parentid": "JZ0000001",
+                "avatar": "assets/images/demo_avatar_1.jpeg"
+            },
+            "approve_by": {
+                "id": "te1",
+                "name": "李建军",
+                "avatar_url": "assets/images/demo_avatar_1.jpeg",
+                "description": "",
+                "courses": [
+                    {
+                        "id": "1",
+                        "name": "语文",
+                        "description": ""
+                    }
+                ],
+                "grades": [
+                    {
+                        "serialNo": "EY000000009",
+                        "name": "高2017级",
+                        "startYear": 2017,
+                        "endYear": 2020,
+                        "schoolSerialNo": "SU000000006"
+                    }
+                ],
+                "birthday": "",
+                "gender": "",
+                "phone": ""
+            },
+            "approve_on": "2020/02/27 16:08:09",
+            "reputy": {
+                "id": "te2",
+                "name": "喻良刚",
+                "avatar_url": "assets/images/demo_avatar_2.jpg",
+                "description": "",
+                "courses": [
+                    {
+                        "id": "2",
+                        "name": "数学",
+                        "description": ""
+                    }
+                ],
+                "grades": [
+                    {
+                        "serialNo": "EY000000009",
+                        "name": "高2017级",
+                        "startYear": 2017,
+                        "endYear": 2020,
+                        "schoolSerialNo": "SU000000006"
+                    }
+                ],
+                "birthday": "",
+                "gender": "",
+                "phone": ""
+            },
+            "leave_type": "学生请假",
+            "status_text": "待审核"
+        },
+        {
+            "id": "2",
+            "name": "",
+            "type": "病假",
+            "occurence": "循环",
+            "start_on": "2020/03/01",
+            "end_on": "2020/03/31",
+            "submit_on": "2020/02/24 17:08:09",
+            "reason": "生病",
+            "student": {
+                "id": "SU20190103",
+                "registerid": "RE20190103",
+                "name": "贺晓珍",
+                "gender": "1",
+                "phone": "13909090809",
+                "grade": {
+                    "serialNo": "EY0910100",
+                    "name": "高2020级",
+                    "startYear": 2020,
+                    "endYear": 2022,
+                    "schoolSerialNo": "SU000000006"
+                },
+                "schoolid": "SU000000006",
+                "parentid": "JZ0000001",
+                "avatar": "assets/images/demo_avatar_2.jpg"
+            },
+            "approve_by": {
+                "id": "te1",
+                "name": "李建军",
+                "avatar_url": "assets/images/demo_avatar_1.jpeg",
+                "description": "",
+                "courses": [
+                    {
+                        "id": "1",
+                        "name": "语文",
+                        "description": ""
+                    }
+                ],
+                "grades": [
+                    {
+                        "serialNo": "EY000000009",
+                        "name": "高2017级",
+                        "startYear": 2017,
+                        "endYear": 2020,
+                        "schoolSerialNo": "SU000000006"
+                    }
+                ],
+                "birthday": "",
+                "gender": "",
+                "phone": ""
+            },
+            "approve_on": "2020/02/27 16:08:09",
+            "reputy": {
+                "id": "te2",
+                "name": "喻良刚",
+                "avatar_url": "assets/images/demo_avatar_2.jpg",
+                "description": "",
+                "courses": [
+                    {
+                        "id": "2",
+                        "name": "数学",
+                        "description": ""
+                    }
+                ],
+                "grades": [
+                    {
+                        "serialNo": "EY000000009",
+                        "name": "高2017级",
+                        "startYear": 2017,
+                        "endYear": 2020,
+                        "schoolSerialNo": "SU000000006"
+                    }
+                ],
+                "birthday": "",
+                "gender": "",
+                "phone": ""
+            },
+            "leave_type": "学生请假",
+            "status_text": "待审核"
+        },
+        {
+            "id": "3",
+            "name": "",
+            "type": "病假",
+            "occurence": "循环",
+            "start_on": "2020/03/01",
+            "end_on": "2020/03/31",
+            "submit_on": "2020/02/24 17:08:09",
+            "reason": "生病",
+            "student": {
+                "id": "SU20190104",
+                "registerid": "RE20190104",
+                "name": "陆春子",
+                "gender": "2",
+                "phone": "13909090810",
+                "grade": {
+                    "serialNo": "EY0910100",
+                    "name": "高2020级",
+                    "startYear": 2020,
+                    "endYear": 2022,
+                    "schoolSerialNo": "SU000000006"
+                },
+                "schoolid": "SU000000006",
+                "parentid": "JZ0000002",
+                "avatar": "assets/images/demo_avatar_3.jpeg"
+            },
+            "approve_by": {
+                "id": "te1",
+                "name": "李建军",
+                "avatar_url": "assets/images/demo_avatar_1.jpeg",
+                "description": "",
+                "courses": [
+                    {
+                        "id": "1",
+                        "name": "语文",
+                        "description": ""
+                    }
+                ],
+                "grades": [
+                    {
+                        "serialNo": "EY000000009",
+                        "name": "高2017级",
+                        "startYear": 2017,
+                        "endYear": 2020,
+                        "schoolSerialNo": "SU000000006"
+                    }
+                ],
+                "birthday": "",
+                "gender": "",
+                "phone": ""
+            },
+            "approve_on": "2020/02/27 16:08:09",
+            "reputy": {
+                "id": "te2",
+                "name": "喻良刚",
+                "avatar_url": "assets/images/demo_avatar_2.jpg",
+                "description": "",
+                "courses": [
+                    {
+                        "id": "2",
+                        "name": "数学",
+                        "description": ""
+                    }
+                ],
+                "grades": [
+                    {
+                        "serialNo": "EY000000009",
+                        "name": "高2017级",
+                        "startYear": 2017,
+                        "endYear": 2020,
+                        "schoolSerialNo": "SU000000006"
+                    }
+                ],
+                "birthday": "",
+                "gender": "",
+                "phone": ""
+            },
+            "leave_type": "学生请假",
+            "status_text": "待审核"
+        }
+    ]
+}

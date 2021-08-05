@@ -1,0 +1,22 @@
+{
+    "code":0,
+    "msg":"",
+    "data":[
+        {
+            "id":"1",
+            "name":"2020春季学期第分层选课",
+            "semester_name":"2019-2020学年第一学期",
+            "grade_name":"高2019级",
+            "description":"选课说明<table  border='1'><tr><td>1</td><td>1</td><td>1</td><td>1</td></tr></table>",
+            "status":"进行中" 
+        },
+        {
+            "id":"2",
+            "name":"2020春季学期校本选课",
+            "status":"已完成",
+            "description":"选课说明<table border='1'><tr><td>1</td><td>1</td><td>1</td><td>1</td></tr></table>",
+            "semester_name":"2019-2020学年第一学期",
+            "grade_name":"高2019级" 
+        }
+    ]
+}

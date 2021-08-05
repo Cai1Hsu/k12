@@ -1,0 +1,27 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": [
+        {
+            "status": "全部",
+            "id": 0,
+            "count": 2000,
+            "checked": true
+        },
+        {
+            "status": "已选",
+            "id": 1,
+            "count": 1000
+        },
+        {
+            "status": "未选",
+            "id": 2,
+            "count": 350
+        },
+        {
+            "status": "未选完",
+            "id": 3,
+            "count": 500
+        }
+    ]
+}

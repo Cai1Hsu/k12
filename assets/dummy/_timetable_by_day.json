@@ -1,0 +1,70 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": [
+        {
+            "the_date": "2020/03/20",
+            "day_of_week": 3,
+            "items": [
+                {
+                    "num_of_day": 1,
+                    "teachclasses": [
+                        {
+                            "id": "1",
+                            "name": "生物[理]A#1班",
+                            "teacherid": "1",
+                            "teacher_name": "周雪",
+                            "classroomid": "1",
+                            "classroom_name": "1栋-201",
+                            "num": "55",
+                            "num_actual": 55
+                        }
+                    ]
+                },
+                {
+                    "num_of_day": 2,
+                    "teachclasses": null
+                },
+                {
+                    "num_of_day": 3,
+                    "teachclasses": [
+                        {
+                            "id": "1",
+                            "name": "生物[理]A#1班",
+                            "teacherid": "1",
+                            "teacher_name": "周雪",
+                            "classroomid": "1",
+                            "classroom_name": "1栋-201",
+                            "num": "55",
+                            "num_actual": 55
+                        }
+                    ]
+                },
+                {
+                    "num_of_day": 4,
+                    "teachclasses": null
+                },
+                {
+                    "num_of_day": 5,
+                    "teachclasses": null
+                },
+                {
+                    "num_of_day": 6,
+                    "teachclasses": null
+                },
+                {
+                    "num_of_day": 7,
+                    "teachclasses": null
+                },
+                {
+                    "num_of_day": 8,
+                    "teachclasses": null
+                },
+                {
+                    "num_of_day": 9,
+                    "teachclasses": null
+                }
+            ]
+        }
+    ]
+}

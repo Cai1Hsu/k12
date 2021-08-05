@@ -1,0 +1,92 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": [
+        {
+            "selectionResultId":"111",
+            "id": "SU20190102",
+            "registerid": "RE20190102",
+            "name": "张胜雅",
+            "gender": "1",
+            "phone": "13909090808",
+            "grade": {
+                "serialNo": "EY000000010",
+                "name": "高2018级",
+                "startYear": 2018,
+                "endYear": 2021,
+                "schoolSerialNo": "SU000000006"
+            },
+            "schoolid": "SU000000006",
+            "parentid": "JZ0000001",
+            "avatar": "assets/images/demo_avatar_1.jpeg"
+        },
+        {
+            "id": "SU20190103",
+            "registerid": "RE20190103",
+            "name": "贺晓珍",
+            "gender": "1",
+            "phone": "13909090809",
+            "grade": {
+                "serialNo": "EY0910100",
+                "name": "高2020级",
+                "startYear": 2020,
+                "endYear": 2022,
+                "schoolSerialNo": "SU000000006"
+            },
+            "schoolid": "SU000000006",
+            "parentid": "JZ0000001",
+            "avatar": "assets/images/demo_avatar_2.jpg"
+        },
+        {
+            "id": "SU20190104",
+            "registerid": "RE20190104",
+            "name": "陆春子",
+            "gender": "2",
+            "phone": "13909090810",
+            "grade": {
+                "serialNo": "EY0910100",
+                "name": "高2020级",
+                "startYear": 2020,
+                "endYear": 2022,
+                "schoolSerialNo": "SU000000006"
+            },
+            "schoolid": "SU000000006",
+            "parentid": "JZ0000002",
+            "avatar": "assets/images/demo_avatar_3.jpeg"
+        },
+        {
+            "id": "SU20190105",
+            "registerid": "RE20190105",
+            "name": "杨军",
+            "gender": "1",
+            "phone": "13909090811",
+            "grade": {
+                "serialNo": "EY0910100",
+                "name": "高2020级",
+                "startYear": 2020,
+                "endYear": 2022,
+                "schoolSerialNo": "SU000000006"
+            },
+            "schoolid": "SU000000006",
+            "parentid": "JZ0000002",
+            "avatar": "assets/images/demo_avatar_4.jpg"
+        },
+        {
+            "id": "SU20190106",
+            "registerid": "RE20190106",
+            "name": "孟洋",
+            "gender": "2",
+            "phone": "13909090815",
+            "grade": {
+                "serialNo": "EY000000010",
+                "name": "高2018级",
+                "startYear": 2018,
+                "endYear": 2021,
+                "schoolSerialNo": "SU000000006"
+            },
+            "schoolid": "SU000000006",
+            "parentid": "JZ0000012",
+            "avatar": "assets/images/demo_avatar_5.jpg"
+        }
+    ]
+}

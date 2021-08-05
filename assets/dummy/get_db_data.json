@@ -1,0 +1,92 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": [{
+            "teacher": {
+                "avatar": "",
+                "name": "张三",
+                "id": "1",
+                "teacherCode": "TE0001"
+            },
+            "score": [{
+                "total": 50,
+                "charm": [{
+                        "name": "选课",
+                        "value": 25
+                    },
+                    {
+                        "name": "选导师",
+                        "value": 26
+                    }
+                ],
+                "workload": [{
+                        "name": "授课课时量",
+                        "value": 1
+                    },
+                    {
+                        "name": "值班情况",
+                        "value": 2
+                    }
+                ]
+            }]
+        },
+        {
+            "teacher": {
+                "avatar": "",
+                "name": "李四",
+                "id": "2",
+                "teacherCode": "TE0002"
+            },
+            "score": [{
+                "total": 80,
+                "charm": [{
+                        "name": "选课",
+                        "value": 35
+                    },
+                    {
+                        "name": "选导师",
+                        "value": 36
+                    }
+                ],
+                "workload": [{
+                        "name": "授课课时量",
+                        "value": 3
+                    },
+                    {
+                        "name": "值班情况",
+                        "value": 0
+                    }
+                ]
+            }]
+        },
+        {
+            "teacher": {
+                "avatar": "",
+                "name": "王四",
+                "id": "3",
+                "teacherCode": "TE0002"
+            },
+            "score": [{
+                "total": 90,
+                "charm": [{
+                        "name": "选课",
+                        "value": 45
+                    },
+                    {
+                        "name": "选导师",
+                        "value": 46
+                    }
+                ],
+                "workload": [{
+                        "name": "授课课时量",
+                        "value": -2
+                    },
+                    {
+                        "name": "值班情况",
+                        "value": 6
+                    }
+                ]
+            }]
+        }
+    ]
+}
