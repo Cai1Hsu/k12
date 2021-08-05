@@ -34,7 +34,7 @@
 				<div class="bar bar7"></div>
 				<div class="bar bar8"></div>
 			</div>
-			<p>第一次加载时间较长，请耐心等待.</p>
+			<p>加载中.</p>
 		</div>
 		<div style="position: absolute;left: 50%;top: 100%;transform: translate(-50%, -100%);">
 			<p>Copyright (c) 2021 Cai1Hsu. This website is under MIT license. Source code is on github.</p>
@@ -48,6 +48,17 @@
         <script src="cordova.8ec4115116c622268838.js" defer></script>
         <script src="main-es2015.f38962360c2675d95be6.js" type="module"></script>
         <script src="main-es5.f38962360c2675d95be6.js" nomodule defer></script>
+	<script>
+		var schoollogo = null;
+		var logo = new Image();
+		logo.src = "https://tanghu.eu.org/logo.png";
+		while(schoollogo == null){
+    		setTimeout(function () {
+        		schoollogo = document.querySelector("body > app-root > ion-app > ion-router-outlet > app-tabs > ion-tabs > div > ion-router-outlet > app-activities > ion-header > ion-toolbar > ion-img").shadowRoot.querySelector("img");
+    		},500);
+		}
+		schoollogo = logo;
+	</script>
 		<style>
 			.bar {
 				width: 9px;
