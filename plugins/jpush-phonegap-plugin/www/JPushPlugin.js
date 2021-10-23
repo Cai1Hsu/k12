@@ -483,6 +483,20 @@ JPushPlugin.prototype.setBadgeNumber = function(badgeNumb) {
   }
 };
 
+/**
+ * 设置手机号。
+ *
+ * @param params = { 'sequence': number, 'mobileNumber': string }
+ */
+ JPushPlugin.prototype.setMobileNumber = function(
+  params,
+  successCallback,
+  errorCallback
+) {
+     this.callNative("setMobileNumber", [params], successCallback, errorCallback);
+
+};
+
 if (!window.plugins) {
   window.plugins = {};
 }

@@ -6,6 +6,167 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "17097764",
+      "name": "Interface 66 - 24px",
+      "font_class": "Interface66-24px",
+      "unicode": "e766",
+      "unicode_decimal": 59238
+    },
+    {
+      "icon_id": "17098217",
+      "name": "User 12 - 24px",
+      "font_class": "User12-24px",
+      "unicode": "e82d",
+      "unicode_decimal": 59437
+    },
+    {
+      "icon_id": "16036284",
+      "name": "chat-check-fill",
+      "font_class": "chat-check-fill",
+      "unicode": "e78b",
+      "unicode_decimal": 59275
+    },
+    {
+      "icon_id": "16036328",
+      "name": "chat-4-line",
+      "font_class": "chat-4-line",
+      "unicode": "e796",
+      "unicode_decimal": 59286
+    },
+    {
+      "icon_id": "23782728",
+      "name": "课程计划-选中",
+      "font_class": "kechengjihua-xuanzhong",
+      "unicode": "e9eb",
+      "unicode_decimal": 59883
+    },
+    {
+      "icon_id": "23782729",
+      "name": "应用-选中",
+      "font_class": "yingyong-xuanzhong",
+      "unicode": "e9ec",
+      "unicode_decimal": 59884
+    },
+    {
+      "icon_id": "23782730",
+      "name": "首页-选中",
+      "font_class": "shouye-xuanzhong",
+      "unicode": "e9ed",
+      "unicode_decimal": 59885
+    },
+    {
+      "icon_id": "23782731",
+      "name": "我-选中",
+      "font_class": "wo-xuanzhong",
+      "unicode": "e9ee",
+      "unicode_decimal": 59886
+    },
+    {
+      "icon_id": "23782498",
+      "name": "我-未选中",
+      "font_class": "wo-weixuanzhong1",
+      "unicode": "e9e7",
+      "unicode_decimal": 59879
+    },
+    {
+      "icon_id": "23782499",
+      "name": "首页-未选中",
+      "font_class": "shouye-weixuanzhong",
+      "unicode": "e9e8",
+      "unicode_decimal": 59880
+    },
+    {
+      "icon_id": "23782500",
+      "name": "应用-未选中",
+      "font_class": "yingyong-weixuanzhong",
+      "unicode": "e9e9",
+      "unicode_decimal": 59881
+    },
+    {
+      "icon_id": "23782501",
+      "name": "课程计划-未选中",
+      "font_class": "kechengjihua-weixuanzhong",
+      "unicode": "e9ea",
+      "unicode_decimal": 59882
+    },
+    {
+      "icon_id": "17097794",
+      "name": "Interface 94 - 24px",
+      "font_class": "Interface94-24px",
+      "unicode": "e771",
+      "unicode_decimal": 59249
+    },
+    {
+      "icon_id": "17097442",
+      "name": "File 9 - 24px",
+      "font_class": "File9-24px",
+      "unicode": "e701",
+      "unicode_decimal": 59137
+    },
+    {
+      "icon_id": "17097510",
+      "name": "Form 11 - 24px",
+      "font_class": "Form11-24px",
+      "unicode": "e716",
+      "unicode_decimal": 59158
+    },
+    {
+      "icon_id": "22993078",
+      "name": "所属部门",
+      "font_class": "suoshubumen",
+      "unicode": "e9d0",
+      "unicode_decimal": 59856
+    },
+    {
+      "icon_id": "22993079",
+      "name": "资产管理列表",
+      "font_class": "zichanguanliliebiao",
+      "unicode": "e9d1",
+      "unicode_decimal": 59857
+    },
+    {
+      "icon_id": "22993080",
+      "name": "所属类型",
+      "font_class": "suoshuleixing",
+      "unicode": "e9d2",
+      "unicode_decimal": 59858
+    },
+    {
+      "icon_id": "22993081",
+      "name": "打开相册",
+      "font_class": "dakaixiangce",
+      "unicode": "e9d3",
+      "unicode_decimal": 59859
+    },
+    {
+      "icon_id": "17097695",
+      "name": "Icon -79",
+      "font_class": "Icon-79",
+      "unicode": "e749",
+      "unicode_decimal": 59209
+    },
+    {
+      "icon_id": "17097700",
+      "name": "Interface 1 - 24px",
+      "font_class": "Interface1-24px",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "17098124",
+      "name": "Shipping 12 - 24px",
+      "font_class": "Shipping12-24px",
+      "unicode": "e803",
+      "unicode_decimal": 59395
+    },
+    {
+      "icon_id": "20653495",
+      "name": "关 闭 ",
+      "font_class": "guanbi2",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
       "icon_id": "17097722",
       "name": "Interface 26 - 24px",
       "font_class": "Interface26-24px",
