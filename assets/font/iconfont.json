@@ -6,6 +6,69 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "25489163",
+      "name": "教师门禁",
+      "font_class": "jiaoshimenjin",
+      "unicode": "e9f6",
+      "unicode_decimal": 59894
+    },
+    {
+      "icon_id": "25489162",
+      "name": "学生门禁",
+      "font_class": "xueshengmenjin",
+      "unicode": "e9f5",
+      "unicode_decimal": 59893
+    },
+    {
+      "icon_id": "25395005",
+      "name": "空座位",
+      "font_class": "kongzuowei",
+      "unicode": "e9f4",
+      "unicode_decimal": 59892
+    },
+    {
+      "icon_id": "17098103",
+      "name": "Setting 17 - 24px",
+      "font_class": "Setting17-24px",
+      "unicode": "e7f9",
+      "unicode_decimal": 59385
+    },
+    {
+      "icon_id": "25333136",
+      "name": "选中学生",
+      "font_class": "xuanzhongxuesheng",
+      "unicode": "e9ef",
+      "unicode_decimal": 59887
+    },
+    {
+      "icon_id": "25333137",
+      "name": "已考评学生",
+      "font_class": "yikaopingxuesheng",
+      "unicode": "e9f2",
+      "unicode_decimal": 59890
+    },
+    {
+      "icon_id": "25333138",
+      "name": "已请假学生",
+      "font_class": "yiqingjiaxuesheng",
+      "unicode": "e9f3",
+      "unicode_decimal": 59891
+    },
+    {
+      "icon_id": "25332806",
+      "name": "黑板",
+      "font_class": "heiban",
+      "unicode": "e9f0",
+      "unicode_decimal": 59888
+    },
+    {
+      "icon_id": "25332807",
+      "name": "可选学生",
+      "font_class": "kexuanxuesheng",
+      "unicode": "e9f1",
+      "unicode_decimal": 59889
+    },
+    {
       "icon_id": "17097764",
       "name": "Interface 66 - 24px",
       "font_class": "Interface66-24px",

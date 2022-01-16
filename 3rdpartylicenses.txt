@@ -172,6 +172,9 @@ MIT
 @ionic-native/status-bar
 MIT
 
+@ionic-native/themeable-browser
+MIT
+
 @ionic/angular
 MIT
 
