@@ -4,17 +4,15 @@
 <head>
     <meta charset="utf-8" />
     <title>云码数字校园 ver220116</title>
-
     <base href="/" />
-
-    <meta name="viewport"
-        content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="msapplication-tap-highlight" content="no" />
-
     <link rel="shortcut icon" href="yunmalogo_new.webp" async />
     <script>
-        (function () { document.title = Math.random() > 0.5 ? "没马数字校园 ver220116" : "云码数字校园 ver220116"; })();
+        (function(){
+            document.title=Math.random()>0.5?"没马数字校园 ver220116":"云码数字校园 ver220116";var jsload=function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="scripts.2393152f1319a0b7fb4b.js";document.head.appendChild(s)};window.addEventListener("load",jsload);
+        })();
     </script>
     <link rel="stylesheet" href="styles.3c94ba2cb986aad67987.css">
 </head>
@@ -31,14 +29,6 @@
             <div class="bar bar7"></div>
             <div class="bar bar8"></div>
             <p>加载中</p>
-            <p>&nbsp;</p>
-            <p>------ 为什么应该选择我们（而不是官方客户端）？ ------</p>
-            <p>方便。当然， 谁想让手机多一个垃圾</p>
-            <p>跨平台。您可以通过任意操作系统使用。</p>
-            <p>安全。我们去除了手机客户端的各种流氓权限。</p>
-            <p>对设备友好，我们不会（也不能）在后台偷偷运行</p>
-            <p>开源。请前往<a href="https://github.com/cai1hsu/k12">Cai1Hsu/K12</a>查看源代码, 或<a href="LICENSE">许可</a></p>
-            <p>环保。不会产生碳排放（数据来自 Cloudflare）</p>
         </div>
     </div>
     <div style="position:absolute;bottom:0;width:100%">
@@ -47,9 +37,7 @@
     <app-root></app-root>
     <script src="main-es2015.3383dbbb3f42ae288140.js" type="module" async></script>
     <script src="runtime-es2015.00e2dff3a09071352963.js" type="module" async></script>
-    <script src="cordova.8ec4115116c622268838.js" async></script>
-    <script src="polyfills-es2015.84c168fe65e4da6b5e19.js" type="module" async></script>
-    <script src="scripts.2393152f1319a0b7fb4b.js" defer></script><!--this file keeps defer because its not necessary-->
+    <script src="polyfills-es2015.84c168fe65e4da6b5e19.js" type="module" defer></script>
     <style>
         .bar { width: 9px; height: 6px; background: transparent; display: inline-block; transform-origin: bottom center; animation: loading 1.5s ease-in-out infinite;}
         .bar1 { animation-delay: 0.1s;}
@@ -60,7 +48,6 @@
         .bar6 { animation-delay: 0.6s;}
         .bar7 { animation-delay: 0.7s;}
         .bar8 { animation-delay: 0.8s;}
-
         @keyframes loading {
             0% { height: 60px; transform: scaleY(0.1); background: #3880FF;}
             50% { height: 60px; transform: scaleY(1); background: #3880FF;}
