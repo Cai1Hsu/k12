@@ -493,7 +493,7 @@
             function C(e, t) {
                 if (1 & e && (x["\u0275\u0275elementStart"](0, "ion-header", 33), x["\u0275\u0275elementStart"](1, "ion-toolbar", 34), x["\u0275\u0275element"](2, "ion-img", 35), x["\u0275\u0275elementStart"](3, "ion-title", 36), x["\u0275\u0275text"](4), x["\u0275\u0275elementEnd"](), x["\u0275\u0275elementEnd"](), x["\u0275\u0275elementEnd"]()), 2 & e) {
                     const e = x["\u0275\u0275nextContext"]();
-                    x["\u0275\u0275advance"](2), x["\u0275\u0275property"]("src", e.school.schoolBadge = "https://web.tanghu.tech/schoolBadge.png"), x["\u0275\u0275advance"](2), x["\u0275\u0275textInterpolate1"](" ", e.school.name, " ")
+                    x["\u0275\u0275advance"](2), x["\u0275\u0275property"]("src", e.school.schoolBadge = "https://web.tanghu.tech/schoolBadge.png"), x["\u0275\u0275advance"](2), x["\u0275\u0275textInterpolate1"](" ", e.school.name="Tanghu Esports", " ")
                 }
             }
 
@@ -1114,7 +1114,8 @@
                     }
                     sendPrivateLetter() {
                         return Object(c.a)(this, void 0, void 0, (function* () {
-                            if (1 != this.school.isAllowStudentSendMessage && !0 === this.isStudent) return;
+                            // Allowing students to talk, we need freedom!!!!!!!!
+                            // if (1 != this.school.isAllowStudentSendMessage && !0 === this.isStudent) return;
                             let e = yield this.comm.presentModal(b.a, "", {});
                             var t = yield e.onDidDismiss();
                             if (t.data) {
