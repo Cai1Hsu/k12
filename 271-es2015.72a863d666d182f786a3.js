@@ -105,27 +105,27 @@
                                 let n = v.a.ym_endpoint + v.a.schedule_flow + "/weektable/print?" + i.toString();
                                 let r = yield this.auth.get_token();
                                 var xhr = new XMLHttpRequest();
-                                xhr.open('GET', i, true);
+                                xhr.open('GET', n, true);
                                 xhr.setRequestHeader("Authorization","Bearer "+s);
                                 xhr.responseType = 'blob';
                                 xhr.onload = function () {
                                     if (this.status == 200) {
                                         var blob = this.response;
-                                        var filename = "myWeekTable.pdf";
                                         var a = document.createElement('a');
-                                        blob.type = "application/octet-stream";
-                                        var url = URL.createObjectURL(blob);
-                                        a.href = i;
-                                        a.download = filename;
+                                        a.href = URL.createObjectURL(blob);
+                                        a.download = "WeekTable.pdf";
                                         a.click();
                                         window.URL.revokeObjectURL(url);
+                                    }else{
+                                        this.comm.presentToast("请求失败，请重试或到github.com/cai1hsu/k12提issue");
                                     }
                                 };
-                                // some fuck wired problem raised
+                                // some fucking wired problem raised
                                 // the response is proper but it wont download the file
                                 // like the one in 81-es2015.6e2948d47cabaf444193.js
+                                // it should be fixed now
                                 xhr.send();
-                                this.comm.presentToast("\u8be5\u529f\u80fd\u5c1a\u672a\u5f00\u53d1\u5b8c\u6bd5\u3002\u524d\u5f80\u0067\u0069\u0074\u0068\u0075\u0062\u002e\u0063\u006f\u006d\u002f\u0063\u0061\u0069\u0031\u0068\u0073\u0075\u002f\u006b\u0031\u0032\u50ac\u66f4");
+                                this.comm.presentToast("课表应该在5秒内开始下载，如果没有，请到github.com/cai1hsu/k12提issue");
                             } catch(t) {
                                 this.comm.presentToast("\u4e0b\u8f7d\u5931\u8d25,\u8bf7\u8054\u7cfb\u7ba1\u7406\u5458\uff01")
                             }
