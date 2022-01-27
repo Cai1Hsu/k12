@@ -6,8 +6,8 @@ enabled = true
 
   [analyzers.meta]
   plugins = [
-    "angular",
-    "angularjs"
+    "angularjs",
+    "angular"
   ]
 
 [[transformers]]
